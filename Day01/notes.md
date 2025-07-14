@@ -1,0 +1,2 @@
+#7/13/25
+Just finished all of the topics and tests for the day and everything went smoothly. Starting with Swift Playgrounds definitely helped me understand all of the topics covered. I learned about variables and constants, strings, storing whole numbers, and storing decimal numbers. The most interesting topic was how to store decimal numbers. It was a pretty easy first day, looking forward to learning more tomorrow.
