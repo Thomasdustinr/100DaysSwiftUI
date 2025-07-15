@@ -1,0 +1,2 @@
+#7/14/25
+Just finished day 2 and I have to say, I am feeling confident. I know I am still learning the basic stuff but I understand everything and could teach someone else. I learned how to store truth with Booleans and how to join strings together. The most interesting topic I learned about was string interpolation. I had my first checkpoint assigment, which I got right on the first try. Looking forward to day 3.
