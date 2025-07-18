@@ -1,0 +1,2 @@
+#7/17/25
+ Stayed up later than normal to finish the lesson. I Learned a lot today. The day started with if, else if, and else statements. I already knew how to write these since I used them in Swift Playgrounds. After that, I learned about switch statements which included some new logical operators that I didn’t know about. The final topic was about the ternary conditional operator which seems like it could be more useful than Paul made it out to be, but what do I know it's just my 5th day out here. Overall, feeling pretty confident with everything I learned today.
