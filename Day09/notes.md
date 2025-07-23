@@ -1,0 +1,2 @@
+#7/22/25
+Today I learned how to create and use closures, how to use trailing closures and shorthand syntax, and how to accept functions as parameters. I also had Checkpoint 5. Like with Checkpoint 4, I tried to come up with the solution but ended up getting nowhere and had to get the answer. I feel like I'm not actually learning/remembering what I’ve been taught. I need to change my learning approach asap.
